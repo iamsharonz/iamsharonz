@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ![Sharonz GitHub stats](https://github-readme-stats.vercel.app/api?username=mrnobody503&hide=contribs&theme=chartreuse-dark&show_icons=true)
 
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 <!--
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sharonzacharia&theme=dark&show_icons=true&hide=contribs,prs">
