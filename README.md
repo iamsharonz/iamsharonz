@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Sharonz GitHub stats](https://github-readme-stats.vercel.app/api?username=mrnobody503&theme=chartreuse-dark&show_icons=true)
+![Sharonz GitHub stats](https://github-readme-stats.vercel.app/api?username=mrnobody503&hide=contribs&theme=chartreuse-dark&show_icons=true)
 
 <!-- Currently disabled repo stats card
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mrnobody503&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
