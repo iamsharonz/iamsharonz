@@ -2,7 +2,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=mrnobody503&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
-<img src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrnobody503&theme=dark&show_icons=true)">
+![Sharonz GitHub stats](https://github-readme-stats.vercel.app/api?username=mrnobody503&theme=dark&show_icons=true)
 
 <!--
 **MrNobody503/MrNobody503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
