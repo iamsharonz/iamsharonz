@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=mrnobody503&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-
 ![Sharonz GitHub stats](https://github-readme-stats.vercel.app/api?username=mrnobody503&theme=chartreuse-dark&show_icons=true)
 
 <!--
