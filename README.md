@@ -1,4 +1,4 @@
-### Hi there   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi there   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
 
 ![Sharonz GitHub stats](https://github-readme-stats.vercel.app/api?username=mrnobody503&hide=contribs&theme=chartreuse-dark&show_icons=true)
 
