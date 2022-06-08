@@ -7,7 +7,7 @@ Full Stack DEv
 * 🌍  I'm based in India
 * ✉️  You can contact me at [Twitter](https://www.twitter.com/iam_sharonz)
 * 🧠  I'm learning React
-* 🤝  I'm open to collaborating on Python, Web DEvelopment
+* 🤝  I'm open to collaborating on Python & Web3
 
 ### Skills
 
